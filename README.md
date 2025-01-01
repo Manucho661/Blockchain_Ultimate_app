@@ -1,1 +1,1 @@
-This a blockchain web application with dealing with cryptocurrency.
+This is a blockchain web application dealing with cryptocurrency.
